@@ -155,3 +155,19 @@ Received Import Request.
 Start importing Assets/Prefabs/SliderTable.prefab using Guid(6a4301facc8bd4b138a81b6b339e07ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '208d79b92f425a4730836334119b0a0d') in 0.155537 seconds
   Import took 0.159689 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 143.908903 seconds.
+  path: Assets/Prefabs/Sphere.prefab
+  artifactKey: Guid(ae59f14ff600242a98d771e5d56a213d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Sphere.prefab using Guid(ae59f14ff600242a98d771e5d56a213d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c475da5f8896e39c36e8c2163a191652') in 0.012429 seconds
+  Import took 0.018651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031772 seconds.
+  path: Assets/Prefabs/Sphere.prefab
+  artifactKey: Guid(ae59f14ff600242a98d771e5d56a213d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Sphere.prefab using Guid(ae59f14ff600242a98d771e5d56a213d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c475da5f8896e39c36e8c2163a191652') in 0.014264 seconds
+  Import took 0.017637 seconds .
+
