@@ -139,3 +139,19 @@ System memory in use after: 167.1 MB.
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1934.
 Total: 2.269813 ms (FindLiveObjects: 0.300906 ms CreateObjectMapping: 0.078510 ms MarkObjects: 1.860195 ms  DeleteObjects: 0.029022 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 15312.427506 seconds.
+  path: Assets/Prefabs/Cube.prefab
+  artifactKey: Guid(7d32f40421d274a61a5f794c5ce04a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Cube.prefab using Guid(7d32f40421d274a61a5f794c5ce04a95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f330ff1c0e970ca7be17b7edd13bf02') in 1.803660 seconds
+  Import took 1.823137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000551 seconds.
+  path: Assets/Prefabs/SliderTable.prefab
+  artifactKey: Guid(6a4301facc8bd4b138a81b6b339e07ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/SliderTable.prefab using Guid(6a4301facc8bd4b138a81b6b339e07ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '208d79b92f425a4730836334119b0a0d') in 0.155537 seconds
+  Import took 0.159689 seconds .
+
